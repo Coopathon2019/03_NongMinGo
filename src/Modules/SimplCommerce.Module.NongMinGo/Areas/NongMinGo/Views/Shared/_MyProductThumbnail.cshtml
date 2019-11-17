@@ -1,0 +1,54 @@
+﻿@model SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductThumbnail
+
+<div class="card mb-4">
+    <input type="hidden" id="productId" value="@Model.Id" />
+            <img alt="@Model.Name" class="card-img-top" src="@Model.ThumbnailUrl">
+            <div class="card-body">
+                <h5 class="card-title product-name">@Model.Name</h5>
+                <p class="card-text product-price">
+                    @if (Model.IsCallForPricing)
+                    {
+                        @Localizer["Call for pricing"]
+                    }
+                    else
+                    {
+                        @Model.CalculatedProductPrice.PriceString
+                        if (Model.CalculatedProductPrice.PercentOfSaving > 0)
+                        {
+                            <span class="product-price-saving">-@(Model.CalculatedProductPrice.PercentOfSaving)%</span>
+                            <br />
+                            <span class="product-price-regular">@Model.CalculatedProductPrice.OldPriceString</span>
+                        }
+                    }
+                </p>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-header" id="cardBrandHeader">
+                                <h5 class="mb-0">
+                                    @Localizer["ProductManagementDetail"]
+                                </h5>
+                            </div>
+                            <div class="show">
+                                <div class="card-body" style='background-color: @(Model.IsPublished ? "lightgreen" : "lightgoldenrodyellow")'>
+                                    @(Model.IsPublished ? Localizer["This product is already been published"] : Localizer["This product is not yet been published"])
+                                    <br />
+                                    @Localizer["Reviews"]@Localizer["Count"] : @Model.ReviewsCount
+                                    <br />
+                                    @Localizer["Stock"]@Localizer["Quantity"] : @Model.StockQuantity
+                                    <br />
+                                    @Localizer["IsAllowToOrder"] : @(Model.IsAllowToOrder ? "Yes" : "No")
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <a class="btn btn-outline-success mt-1" href="~/@Model.Slug">@Localizer["User View"]<i class="czi-arrow-right"></i></a>
+                        <a class="btn btn-outline-warning mt-1" href="/admin#!/product/edit/@Model.Id">@Localizer["Edit View"]<i class="czi-arrow-right"></i></a>
+                        <a class="btn btn-outline-secondary mt-1" href="/admin#!/stocks">@Localizer["Stock"] ( @Model.StockQuantity )<i class="czi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+</div>

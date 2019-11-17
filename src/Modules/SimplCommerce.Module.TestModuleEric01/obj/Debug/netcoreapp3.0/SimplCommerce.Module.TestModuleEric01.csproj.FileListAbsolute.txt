@@ -1,0 +1,6 @@
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.TestModuleEric01\obj\Debug\netcoreapp3.0\SimplCommerce.Module.TestModuleEric01.csprojAssemblyReference.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.TestModuleEric01\obj\Debug\netcoreapp3.0\staticwebassets\SimplCommerce.Module.TestModuleEric01.StaticWebAssets.Manifest.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.TestModuleEric01\obj\Debug\netcoreapp3.0\staticwebassets\SimplCommerce.Module.TestModuleEric01.StaticWebAssets.xml
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.TestModuleEric01\obj\Debug\netcoreapp3.0\SimplCommerce.Module.TestModuleEric01.RazorComponent.input.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.TestModuleEric01\obj\Debug\netcoreapp3.0\RazorDeclaration\Component1.razor.g.cs
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.TestModuleEric01\obj\Debug\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs

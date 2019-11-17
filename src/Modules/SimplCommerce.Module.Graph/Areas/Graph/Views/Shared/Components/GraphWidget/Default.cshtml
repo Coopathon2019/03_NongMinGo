@@ -1,0 +1,20 @@
+﻿@model SimplCommerce.Module.Groups.Areas.Groups.ViewModels.GraphWidgetComponentVm
+@inject IViewLocalizer Localizer
+
+<link simpl-append-version="true" rel="stylesheet" href="~/modules/graph/graph.css" />
+
+<script simpl-append-version="true" src="~/lib/d3/d3.v4.js"></script>
+@*<script simpl-append-version="true" src="~/lib/d3/d3.layout.js"></script>*@
+<script simpl-append-version="true" src="~/lib/d3/webcola/cola.min.js"></script>
+@*<script simpl-append-version="true" src="~/lib/d3/d3.geom.min.js"></script>*@
+
+<script id="graphdata" charset="utf-8" type="application/json">
+    @Model.GraphDataStr
+</script>
+
+<div class="row">
+    <svg width="960" height="600"></svg>
+</div>
+
+@*LinSianTing Added at 2019.11.11*@
+<script simpl-append-version="true" charset="utf-8" src="~/modules/graph/graph.js"></script>

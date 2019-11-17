@@ -1,0 +1,15 @@
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\bin\Debug\netcoreapp3.0\module.json
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\bin\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.deps.json
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\bin\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\bin\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.pdb
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\bin\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\bin\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.pdb
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.csprojAssemblyReference.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\staticwebassets\SimplCommerce.Module.HangfireJobs.StaticWebAssets.Manifest.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\staticwebassets\SimplCommerce.Module.HangfireJobs.StaticWebAssets.xml
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.AssemblyInfoInputs.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.AssemblyInfo.cs
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.RazorTargetAssemblyInfo.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.csproj.CopyComplete
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\Modules\SimplCommerce.Module.HangfireJobs\obj\Debug\netcoreapp3.0\SimplCommerce.Module.HangfireJobs.pdb

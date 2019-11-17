@@ -1,0 +1,8 @@
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\bin\Release\netcoreapp3.0\SimplCommerce.Infrastructure.deps.json
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\bin\Release\netcoreapp3.0\SimplCommerce.Infrastructure.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\bin\Release\netcoreapp3.0\SimplCommerce.Infrastructure.pdb
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Release\netcoreapp3.0\SimplCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Release\netcoreapp3.0\SimplCommerce.Infrastructure.AssemblyInfo.cs
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Release\netcoreapp3.0\SimplCommerce.Infrastructure.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Release\netcoreapp3.0\SimplCommerce.Infrastructure.pdb
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Release\netcoreapp3.0\SimplCommerce.Infrastructure.csprojAssemblyReference.cache

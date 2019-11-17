@@ -1,0 +1,7 @@
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\bin\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.deps.json
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\bin\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\bin\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.pdb
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.AssemblyInfo.cs
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.dll
+D:\CodingWork\Projects\NongMinGoProject\SimplCommerce\src\SimplCommerce.Infrastructure\obj\Debug\netcoreapp3.0\SimplCommerce.Infrastructure.pdb
